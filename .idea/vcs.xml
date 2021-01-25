@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/closestNeighbours" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliveryCenter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontBack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gatinhoPeto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessANumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/missingChar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notString" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp56/rockpaperscissors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stringManipulations" vcs="Git" />
+  </component>
+</project>
